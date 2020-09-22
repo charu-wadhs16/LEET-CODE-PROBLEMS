@@ -20,10 +20,7 @@ int main()
       max=clips[i][1];
     }
   }
- 
-
- 
-if(max==min)
+ if(max==min)
  {
    k=-1;
    cout<<k;
